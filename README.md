@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @KrzysztofSzoltysek
 - 👀 I’m interested in Manual Testing web and mobile apps
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning GIT, Selenium (automatic tests)
+- 💞️ I’m looking to collaborate on first commercial project in Testing Software area.
+- 📫 How to reach me
+  Linkedin - https://www.linkedin.com/in/krzysztof-szołtysek/
+  Mail - krzysztof23@protonmail.ch
 
 <!---
 KrzysztofSzoltysek/KrzysztofSzoltysek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
