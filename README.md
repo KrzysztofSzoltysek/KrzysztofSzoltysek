@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on first commercial project in Testing Software area.
 - Check my roadmap at Coggle of becoming Software Tester! https://coggle.it/diagram/ZS5G-sJZbsTtBzsd/t/software-tester-roadmap-krzysztof-szołtysek
 - Tools im familliar with: MySql, Chrome DevTools, Postman, Soap UI, Jira.
-- RESTAPI - API tests with Postman and Soap UI, friendly with XML and JSON.
+- REST API SOAP - API tests with Postman and Soap UI, friendly with XML and JSON.
 - Enviroments im familliar with: Linux terminal, Windows with command line, Android OS.
 - Data Bases - SQL (MySQL)
 - 
